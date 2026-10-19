@@ -8,6 +8,7 @@ CS and Biology student at Northeastern University (Class of 2029), interested in
 - 💼 Seeking a Spring 2027 co-op in software, bioinformatics, or computational biology
 
 **Languages:** Python, Java, C#, SQL
+
 **Tools:** Unity, Git, pandas, NumPy
 
 📫 lin.k4@northeastern.edu
