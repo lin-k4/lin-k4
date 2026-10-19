@@ -2,7 +2,7 @@
 
 CS and Biology student at Northeastern University (Class of 2029), interested in software for biotech, especially AI for drug discovery and diagnostics.
 
-- 🏎️ Software team member on **Northeastern Electric Racing**, working on a Python full-stack simulation app
+- 🏎️ Software team member on **Northeastern Electric Racing**, working on a Python full-stack simulation web app
 - 🎮 Built **[Siegebound](https://github.com/lin-k4/siegebound)**, a 3D tower defense game in Unity/C#
 - 🧬 Coursework in program design, databases, mathematical foundations of AI, and genetics and molecular biology
 - 💼 Seeking a Spring 2027 co-op in software, bioinformatics, or computational biology
